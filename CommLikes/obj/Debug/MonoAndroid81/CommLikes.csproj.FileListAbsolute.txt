@@ -1,0 +1,3 @@
+C:\Users\Elenn\source\repos\CommLikes\CommLikes\obj\Debug\MonoAndroid81\CommLikes.csprojAssemblyReference.cache
+C:\Users\Elenn\source\repos\CommLikes\CommLikes\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Elenn\source\repos\CommLikes\CommLikes\obj\Debug\MonoAndroid81\CommLikes.csproj.CoreCompileInputs.cache
